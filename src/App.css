@@ -1,0 +1,23 @@
+.ItemListContainerApp{
+  color: grey;
+  text-align: center;
+  font-size: 3.125rem;
+  font-family:serif
+
+}
+
+.NavLink{
+  color: brown;
+  text-decoration: none;
+  font-style: bold;
+  font-size: large;
+}
+
+.NavImg {
+  width: auto;
+  height: 130px;
+}
+.CartWidgetImg {
+  width: 20px;
+  height: 20px;
+}
